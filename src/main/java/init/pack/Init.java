@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class Init
  */
-@WebServlet("/Init2")
+@WebServlet("/Init3")
 public class Init extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
